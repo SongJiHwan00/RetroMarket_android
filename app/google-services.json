@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170172015670",
+    "project_id": "retromarket-project",
+    "storage_bucket": "retromarket-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170172015670:android:73152f8e349fee7d10a497",
+        "android_client_info": {
+          "package_name": "com.example.retromarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB6No5UR_JVLQTg9FTg0Y013ipNOaTxko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
